@@ -16,7 +16,7 @@ I care about writing maintainable code, creating intuitive interfaces, and build
 
 | Project | What it does |
 |---|---|
-| [**Movie Booking App**](YOUR_MOVIE_BOOKING_URL) | Movie discovery and ticket booking application featuring showtimes, seat selection, and booking management. |
+| [**Movie Booking App**](https://github.com/Hassandawah1/Movie-Booking) | Movie discovery and ticket booking application featuring showtimes, seat selection, and booking management. |
 | [**JourneyLog**](YOUR_JOURNEYLOG_URL) | Productivity and accountability application for managing goals, daily tasks, habits, and progress. |
 
 ---
