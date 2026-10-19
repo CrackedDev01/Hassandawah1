@@ -8,9 +8,11 @@ I enjoy solving real-world problems and building clean, responsive, and user-fri
 
 I care about writing maintainable code, creating intuitive interfaces, and building software that makes a difference.
 
+
 [LinkedIn](www.linkedin.com/in/hassan-abdulfatai/) · [GitHub](https://github.com/Hassandawah1)
 
----
+**Open to frontend engineering opportunities and meaningful collaborations.**
+
 
 ## Open source
 
@@ -19,7 +21,7 @@ I care about writing maintainable code, creating intuitive interfaces, and build
 | [**Movie Booking App**](https://github.com/Hassandawah1/Movie-Booking) | Movie discovery and ticket booking application featuring showtimes, seat selection, and booking management. |
 | [**JourneyLog**](YOUR_JOURNEYLOG_URL) | Productivity and accountability application for managing goals, daily tasks, habits, and progress. |
 
----
+
 
 ## Products
 
@@ -28,7 +30,7 @@ I care about writing maintainable code, creating intuitive interfaces, and build
 | [**Bird Keeper**](YOUR_BIRD_KEEPER_URL) | Poultry management platform for tracking flocks, feed, expenses, mortality, sales, and farm performance. |
 | [**Career Hunter**](YOUR_CAREER_HUNTER_URL) | Job discovery platform for finding opportunities, tracking applications, and researching companies. |
 
----
+
 
 ## Experience
 
@@ -36,7 +38,7 @@ My experience covers frontend development, API integration, authentication, and 
 
 I enjoy turning ideas into working products, with a focus on usability, performance, and maintainable code.
 
----
+
 
 ## Education
 
@@ -46,7 +48,7 @@ B.Sc. Software Engineering · Expected 2027
 **SQI College of ICT**  
 Full-Stack Web Development Training
 
----
+
 
 ## Tools I use
 
@@ -58,6 +60,5 @@ Full-Stack Web Development Training
 
 **Tools:** Git, GitHub, VS Code, Figma, Vercel.
 
----
 
-**Open to frontend engineering opportunities and meaningful collaborations.**
+
